@@ -1,0 +1,36 @@
+C:\Users\DuyPhan\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\DuyPhan\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\DuyPhan\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuyPhan\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\DuyPhan\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\heo\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\heo\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\heo\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\heo\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\DuyPhan\Downloads\Duy\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\DuyPhan\Downloads\Duy\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\DuyPhan\Downloads\Duy\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DuyPhan\Downloads\Duy\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\DuyPhan\Downloads\Duy\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\PhanTranThaoDuy_CDNQTCSDL14\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.csprojResolveAssemblyReference.cache
+C:\Users\QuangTanh\Downloads\PMTRACNGHIEM\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\QuangTanh\Downloads\PMTRACNGHIEM\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\QuangTanh\Downloads\PMTRACNGHIEM\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.csprojResolveAssemblyReference.cache
+C:\Users\QuangTanh\Downloads\PMTRACNGHIEM\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\QuangTanh\Downloads\PMTRACNGHIEM\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.dll
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\bin\Debug\PUBLIC.pdb
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.dll
+D:\CodePhanMemTracNghiem\PMTRACNGHIEM\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\11112\Downloads\PMTRACNGHIEM-Group 7-20240910T040010Z-001\PMTRACNGHIEM-Group 7\PUBLIC\obj\Debug\PUBLIC.pdb

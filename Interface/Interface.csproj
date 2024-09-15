@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{15C5C0CA-B71E-4475-AC39-34C07359D06F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icotest.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DANGKY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DANGKY.Designer.cs">
+      <DependentUpon>DANGKY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DANGNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DANGNHAP.Designer.cs">
+      <DependentUpon>DANGNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DNPHIEUCHAMDIEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DNPHIEUCHAMDIEM.Designer.cs">
+      <DependentUpon>DNPHIEUCHAMDIEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LamBaiTracNghiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LamBaiTracNghiem.Designer.cs">
+      <DependentUpon>LamBaiTracNghiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MONHOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MONHOC.Designer.cs">
+      <DependentUpon>MONHOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MONTHI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MONTHI.Designer.cs">
+      <DependentUpon>MONTHI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapCauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapCauHoi.Designer.cs">
+      <DependentUpon>NhapCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PHIEUCHAMDIEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PHIEUCHAMDIEM.Designer.cs">
+      <DependentUpon>PHIEUCHAMDIEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DANGKY.resx">
+      <DependentUpon>DANGKY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DANGNHAP.resx">
+      <DependentUpon>DANGNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DNPHIEUCHAMDIEM.resx">
+      <DependentUpon>DNPHIEUCHAMDIEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LamBaiTracNghiem.resx">
+      <DependentUpon>LamBaiTracNghiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MONHOC.resx">
+      <DependentUpon>MONHOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MONTHI.resx">
+      <DependentUpon>MONTHI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapCauHoi.resx">
+      <DependentUpon>NhapCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PHIEUCHAMDIEM.resx">
+      <DependentUpon>PHIEUCHAMDIEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUL\BUL.csproj">
+      <Project>{E7D2EBCC-1A9A-4BE7-A692-1D72A14F96F2}</Project>
+      <Name>BUL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PUBLIC\PUBLIC.csproj">
+      <Project>{AE11A62E-2C40-432E-B8F5-48BEB6870B8B}</Project>
+      <Name>PUBLIC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MauVang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icotest.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

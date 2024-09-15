@@ -1,0 +1,13 @@
+﻿Hướng dẫn cài đặt chương trình: 
+Để chương trình chạy được cần cài đặt các soft sau
+1/ Cài SQL Server:
+Xem file Setup-SQLExpress.doc
+2/ Attach DataBase
+Xem file AttachDBQLSV.doc
+2/ Cài .Net framewor 4.5.1
+3/ Nếu cần sử dụng chức năng báo cáo cài đặt Crystal Report
+4/ Khởi động chương trình QLSV:
+QLSV\Package-QLSV\QuanLySinhVien.exe
+5/ Thư mục chứa source khi có nhu cầu edit code
+- QLSV\Source\QuanLySinhVien.sh
+- Khi hệ thống báo thiếu thư viện có thể reference tại Soft-DLL
